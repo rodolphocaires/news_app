@@ -1,0 +1,1 @@
+const newsApi = 'https://newsapi.org/v2';
