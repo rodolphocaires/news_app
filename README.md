@@ -56,9 +56,3 @@ news_app/
 ~~~
 
 To prevent sharing sensitive data, we can configure locally some of the keys and configuration for our app. As specified within the file `.env-example`, for the config `NEWS_API_KEY` we define the key to access the API, which can be [found here](https://newsapi.org/); and for the config `BACKGROUND_FETCH_INTERVAL_SECONDS`, we can define the interval (in seconds) for the application to fetch live news from the NewsAPI ORG. 
-
-![image](https://github.com/user-attachments/assets/a3e180c9-a6af-4bf2-a3bf-54b2dbfc490e)
-
-Below we can see the Flutter and Dart version when the app was implemented. 
-
-![image](https://github.com/user-attachments/assets/32fd46c0-020a-4fd3-8c6f-21ac125c32b3)
